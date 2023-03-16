@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Şakir Kurt</h1>
 <h3 align="center">I am a Computer Engineering student at Turgut Ozal University. I am developing myself on Artificial Intelligence, Data Engineering</h3>
-img align="right" alt="Coding" width="400" src="https://community.wolfram.com/c/portal/getImageAttachment?filename=animatedmedium.gif&userId=48754"
+<img align="right" alt="Coding" width="400" src="https://community.wolfram.com/c/portal/getImageAttachment?filename=animatedmedium.gif&userId=48754">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetsakirkurt&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetsakirkurt" /> </p>
 

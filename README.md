@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehmet Şakir Kurt</h1>
-<h3 align="center">I am developing myself on Artificial Intelligence, Data Engineering</h3>
+<h3 align="center">I am a Computer Engineering student at Turgut Ozal University. I am developing myself on Artificial Intelligence, Data Engineering</h3>
+img align="right" alt="Coding" width="400" src="https://community.wolfram.com/c/portal/getImageAttachment?filename=animatedmedium.gif&userId=48754"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetsakirkurt&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetsakirkurt" /> </p>
+
+- 📫 How to reach me **mehmetwolf571@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetsakirkurt&show_icons=true&locale=en" alt="mehmetsakirkurt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetsakirkurt&" alt="mehmetsakirkurt" /></p>
+

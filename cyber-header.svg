@@ -1,0 +1,207 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mehmet Şakir Kurt animated header</title>
+  <desc id="desc">Animated cyber security themed banner for GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#07111F">
+        <animate attributeName="stop-color" values="#07111F;#0B1730;#07111F" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#102B4E">
+        <animate attributeName="stop-color" values="#102B4E;#153D66;#102B4E" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0E7490">
+        <animate attributeName="stop-color" values="#0E7490;#7C3AED;#0E7490" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 90) rotate(30) scale(300 170)">
+      <stop stop-color="#22D3EE" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 100) rotate(12) scale(330 190)">
+      <stop stop-color="#A855F7" stop-opacity="0.30" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="lineGradient" x1="260" y1="0" x2="940" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="1" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </linearGradient>
+
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-opacity="0.12" stroke-width="1" />
+    </pattern>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="titleGlow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#67E8F9" flood-opacity="0.45" />
+    </filter>
+
+    <style>
+      .tiny {
+        font: 600 15px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 0.24em;
+        text-transform: uppercase;
+      }
+
+      .name {
+        font: 800 60px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 0.02em;
+      }
+
+      .subtitle {
+        font: 600 23px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 0.04em;
+      }
+
+      .chip {
+        font: 600 15px 'Segoe UI', Arial, sans-serif;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .float-slow {
+        animation: floatSlow 8s ease-in-out infinite;
+      }
+
+      .float-reverse {
+        animation: floatReverse 10s ease-in-out infinite;
+      }
+
+      .glitch-main {
+        animation: glitchMain 4.2s infinite;
+      }
+
+      .glitch-cyan {
+        animation: glitchCyan 4.2s infinite;
+      }
+
+      .glitch-purple {
+        animation: glitchPurple 4.2s infinite;
+      }
+
+      .blink {
+        animation: blink 2.4s step-end infinite;
+      }
+
+      .pulse {
+        animation: pulse 2.8s ease-in-out infinite;
+      }
+
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+
+      @keyframes floatReverse {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(10px); }
+      }
+
+      @keyframes glitchMain {
+        0%, 86%, 100% { transform: translate(0, 0); opacity: 1; }
+        88% { transform: translate(1.5px, -0.5px); opacity: 0.95; }
+        90% { transform: translate(-1px, 0.8px); opacity: 0.9; }
+        92% { transform: translate(0.5px, -0.3px); opacity: 1; }
+      }
+
+      @keyframes glitchCyan {
+        0%, 84%, 100% { transform: translate(0, 0); opacity: 0; }
+        85% { transform: translate(-4px, 0); opacity: 0.55; }
+        87% { transform: translate(3px, -1px); opacity: 0.25; }
+        89% { transform: translate(-2px, 1px); opacity: 0; }
+      }
+
+      @keyframes glitchPurple {
+        0%, 84%, 100% { transform: translate(0, 0); opacity: 0; }
+        86% { transform: translate(4px, 0); opacity: 0.4; }
+        88% { transform: translate(-3px, 1px); opacity: 0.2; }
+        90% { transform: translate(2px, -1px); opacity: 0; }
+      }
+
+      @keyframes blink {
+        0%, 45%, 100% { opacity: 1; }
+        50%, 95% { opacity: 0.25; }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="300" rx="28" fill="url(#bgGradient)" />
+  <rect x="10" y="10" width="1180" height="300" rx="28" fill="url(#gridPattern)" />
+
+  <g class="float-slow">
+    <circle cx="180" cy="80" r="140" fill="url(#glowLeft)" />
+  </g>
+  <g class="float-reverse">
+    <circle cx="980" cy="110" r="170" fill="url(#glowRight)" />
+  </g>
+
+  <g opacity="0.72">
+    <path d="M70 250 H1130" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.4" />
+    <path d="M70 262 H1130" stroke="#38BDF8" stroke-opacity="0.10" stroke-width="1" />
+    <path d="M70 274 H1130" stroke="#38BDF8" stroke-opacity="0.08" stroke-width="1" />
+  </g>
+
+  <g opacity="0.95">
+    <circle cx="108" cy="66" r="3.6" fill="#67E8F9" class="pulse" />
+    <circle cx="1040" cy="74" r="3.2" fill="#A855F7" class="pulse" />
+    <circle cx="1016" cy="244" r="2.8" fill="#22D3EE" class="pulse" />
+  </g>
+
+  <g fill="none" stroke="#67E8F9" stroke-opacity="0.24">
+    <path d="M86 84 H250" />
+    <path d="M950 84 H1114" />
+    <path d="M944 238 H1098" />
+  </g>
+
+  <text x="92" y="58" class="tiny" fill="#9BDCF2">secure ai • computer vision • cybersecurity</text>
+  <text x="92" y="84" class="tiny blink" fill="#67E8F9">&gt; initialize_profile --mode modern</text>
+
+  <g filter="url(#titleGlow)">
+    <text x="600" y="165" text-anchor="middle" class="name glitch-cyan" fill="#22D3EE">Mehmet Şakir Kurt</text>
+    <text x="600" y="165" text-anchor="middle" class="name glitch-purple" fill="#A855F7">Mehmet Şakir Kurt</text>
+    <text x="600" y="165" text-anchor="middle" class="name glitch-main" fill="#E6F1FF">Mehmet Şakir Kurt</text>
+  </g>
+
+  <rect x="260" y="186" width="680" height="2.4" rx="1.2" fill="url(#lineGradient)" filter="url(#softGlow)" />
+
+  <text x="600" y="226" text-anchor="middle" class="subtitle" fill="#D6EEFF">
+    AI Engineer • Cybersecurity M.Sc. Candidate • Full Stack Developer
+  </text>
+
+  <g class="float-slow">
+    <rect x="92" y="218" width="170" height="34" rx="17" fill="#07111F" fill-opacity="0.42" stroke="#22D3EE" stroke-opacity="0.28" />
+    <text x="177" y="240" text-anchor="middle" class="chip" fill="#B8F4FF">ML Security</text>
+  </g>
+
+  <g class="float-reverse">
+    <rect x="940" y="218" width="168" height="34" rx="17" fill="#07111F" fill-opacity="0.42" stroke="#A855F7" stroke-opacity="0.26" />
+    <text x="1024" y="240" text-anchor="middle" class="chip" fill="#E9D5FF">Threat Intel</text>
+  </g>
+
+  <rect x="36" y="-60" width="1128" height="80" fill="url(#scanGradient)" opacity="0.85">
+    <animate attributeName="y" values="-80;340" dur="5.8s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="10.75" y="10.75" width="1178.5" height="298.5" rx="27.25" stroke="#E2F3FF" stroke-opacity="0.10" stroke-width="1.5" />
+</svg>

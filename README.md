@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Animated cyber header banner" />
+<img src="https://raw.githubusercontent.com/MehmetSakirKurt/hub/main/assets/cyber-header.svg" width="100%" alt="Animated cyber header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2400&pause=850&color=67E8F9&center=true&vCenter=true&width=920&lines=Secure+AI+architectures+and+LLM-powered+products;Real-time+computer+vision+for+edge+and+industrial+systems;Cybersecurity+research+with+an+engineering-first+mindset" alt="Typing SVG" />

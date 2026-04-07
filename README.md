@@ -1,440 +1,192 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehmet%20Şakir%20Kurt&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,24&text=Mehmet%20Sakir%20Kurt&fontColor=E6F1FF&fontSize=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20M.Sc.%20Candidate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Header banner" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Computer+Vision+Specialist;Building+Intelligent+Systems+at+the+Intersection+of+AI+and+Cybersecurity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Computer+Vision;M.Sc.+Cybersecurity+candidate+focused+on+secure+AI+systems;Building+intelligent+products+where+AI+meets+security" alt="Typing SVG" />
+</a>
 
-<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-%C5%9Fakir-kurt-36339b1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/mehmetakirkurtt">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:mehmetsakirkurtt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/mehmetsakirkurt/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- Visitor Badge & Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetsakirkurt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mehmetsakirkurt?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mehmetsakirkurt&label=profile+views&color=0891b2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Kayseri-Turkiye-0f172a?style=flat-square&logo=googlemaps&logoColor=22d3ee" alt="Location" />
+  <img src="https://img.shields.io/badge/M.Sc.-Cybersecurity-0f172a?style=flat-square&logoColor=22d3ee" alt="M.Sc. Cybersecurity" />
+  <img src="https://img.shields.io/badge/Research-AI%20Security%20%2B%20Blockchain-0f172a?style=flat-square&logoColor=22d3ee" alt="Research Areas" />
 </p>
 
 </div>
 
----
+## `whoami`
 
-## 🚀 About Me
+```bash
+mehmetsakirkurt@github:~$ profile --summary
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```python
-class MehmetSakirKurt:
-    def __init__(self):
-        self.name = "Mehmet Şakir Kurt"
-        self.role = "AI Engineer & Full Stack Developer"
-        self.location = "Kayseri, Turkey 🇹🇷"
-        self.education = {
-            "current": "M.Sc. Cybersecurity @ Kayseri University",
-            "focus": ["AI Security", "Blockchain Security", 
-                     "ML Security", "Cyber Threat Intelligence"],
-            "completed": "B.Sc. Computer Engineering"
-        }
-        
-    def current_work(self):
-        return [
-            "🤖 AI-Powered Applications with LLM Integration",
-            "👁️ Real-time Computer Vision Systems",
-            "📱 Cross-platform Mobile Development",
-            "🔐 AI Security & Blockchain Research"
-        ]
-    
-    def tech_stack(self):
-        return {
-            "ai_ml": ["TensorFlow", "PyTorch", "YOLO", "U-Net"],
-            "frontend": ["React", "React Native", "TypeScript"],
-            "backend": ["FastAPI", "Node.js", "Supabase"],
-            "tools": ["Docker", "N8N", "MCP", "CUDA"],
-            "hardware": ["NVIDIA Jetson Xavier", "Raspberry Pi"]
-        }
+name: Mehmet Şakir Kurt
+role: AI Engineer | Full Stack Developer | Computer Vision Specialist
+base: Kayseri, Türkiye
+education: M.Sc. in Cybersecurity @ Kayseri University (expected 2027)
+focus: AI security, blockchain security, ML security, cyber threat intelligence
+building: LLM-powered applications, real-time vision systems, secure AI workflows
 ```
 
-<br clear="right"/>
+Building products at the intersection of `AI`, `computer vision`, `full-stack engineering`, and `cybersecurity`. I enjoy taking research-heavy ideas and turning them into systems people can actually use, from model experimentation and edge inference to APIs, mobile interfaces, automation, and production delivery.
 
-### 🎯 Quick Highlights
-
-- 🎓 **Master's Student** in Cybersecurity with focus on AI Security
-- 🤖 **Former AI Software Engineer** at ERÜ Aviation Technologies Team (HAVTEK)
-- 🏆 **TÜBİTAK 2209-B** Research Project - U-Net Based Brain Tumor Diagnosis
-- 🥇 **Teknofest 2024** Participant - Combat Drone Image Processing
-- 💼 **Freelance Full Stack Developer** specializing in AI-powered applications
-- 📊 **Data Science Background** with Big Data & Analytics experience
-
----
-
-## 💼 Featured Projects
+## What I Focus On
 
 <table>
-<tr>
-<td width="50%">
-
-### 🤖 AI-Powered Official Gazette App
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com)
-
-**Tech Stack:**
-- React Native, TypeScript
-- LLM Integration (OpenAI)
-- Supabase Backend
-- N8N Automation
-- MCP Protocol
-
-**Features:**
-- 📱 Cross-platform (iOS/Android)
-- 🧠 Intelligent Search with NLP
-- 🔍 Auto Classification
-- 📊 Real-time Notifications
-
-</td>
-<td width="50%">
-
-### 🏭 YOLO Factory Counting System
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com)
-
-**Tech Stack:**
-- YOLO v8
-- React + TypeScript
-- FastAPI
-- Supabase
-- Computer Vision
-
-**Features:**
-- 🎯 Real-time Detection
-- 📊 Dashboard Analytics
-- 📷 Camera Stream Processing
-- 📈 Accuracy Optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Brain Tumor Diagnosis (TÜBİTAK)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com)
-
-**Tech Stack:**
-- U-Net Architecture
-- PyTorch
-- Medical Imaging
-- Transfer Learning
-
-**Achievements:**
-- 🎯 High-accuracy segmentation
-- 🏥 Clinical decision support
-- 📊 MRI image analysis
-
-</td>
-<td width="50%">
-
-### 🛸 Combat Drone Vision (Teknofest)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com)
-
-**Tech Stack:**
-- YOLO Object Detection
-- NVIDIA Jetson Xavier
-- PyQt5 GUI
-- GPS Integration
-
-**Achievements:**
-- ⚡ Real-time processing
-- 🎯 Target identification
-- 🏆 Teknofest 2024
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🔧 DevOps & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-### 📊 Data Science & Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-
-### 🔌 Hardware & Embedded Systems
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetsakirkurt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsakirkurt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetsakirkurt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetsakirkurt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmetsakirkurt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mehmetsakirkurt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-
-**🔐 M.Sc. in Cybersecurity**  
-📍 Kayseri University (2025-2027)  
-🎯 Focus: AI Security, Blockchain Security
-
-**💻 B.Sc. in Computer Engineering**  
-📍 Erciyes University (2023-2024)  
-📍 Turgut Özal University (2020-2023)  
-📊 GPA: 3.23/4.00
-
-</td>
-<td width="50%">
-
-### 📜 Certifications
-
-✅ **AI Expertise Program**  
-   Ministry of Industry & Technology (Dec 2023)
-
-✅ **Data Analyst Bootcamp**  
-   Istanbul Data Science Academy (Jan 2023)
-
-✅ **Advanced English Communication**  
-   Code-Switching Method (Aug 2023)
-
-✅ **Software Development Bootcamp**  
-   SQL Training (Nov 2021)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Experience Timeline
-
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat  YYYY-MM
-    section Education
-    B.Sc. Computer Engineering           :2020-09, 2024-06
-    M.Sc. Cybersecurity                 :2025-09, 2027-06
-    section Work Experience
-    Data Analyst - Öztan Elektrik       :2022-07, 2022-08
-    Data Scientist - Öztan Elektrik     :2023-07, 2023-08
-    AI Engineer - HAVTEK                :2023-10, 2024-08
-    Full Stack Developer - Freelance    :2024-09, 2025-10
-    section Projects
-    TÜBİTAK Brain Tumor Project         :2023-09, 2025-03
-    Teknofest Combat Drone              :2023-11, 2024-08
-    AI Gazette App                      :2024-06, 2025-10
-    YOLO Counting System                :2024-08, 2025-10
-```
-
----
-
-## 🌟 Skills & Expertise
-
-<div align="center">
-
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **AI/ML** | Deep Learning, Computer Vision, NLP, LLM | ████████████████████ 100% |
-| **Frontend** | React, React Native, TypeScript | ██████████████████░░ 90% |
-| **Backend** | FastAPI, Node.js, Supabase | ███████████████████░ 95% |
-| **Data Science** | Pandas, Spark, Big Data, Analytics | █████████████████░░░ 85% |
-| **DevOps** | Docker, Git, CI/CD, Cloud | ██████████████████░░ 90% |
-| **Hardware** | Jetson Xavier, Embedded Systems | ████████████████░░░░ 80% |
-| **Cybersecurity** | AI Security, Blockchain, Threat Intel | ███████████████░░░░░ 75% |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-### 💬 Let's Collaborate on Innovative Projects!
-
-I'm passionate about AI, Computer Vision, and building intelligent systems.  
-Always open to interesting projects and collaborations!
-
-<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/mehmet-%C5%9Fakir-kurt-36339b1b2/">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
-        <br><b>LinkedIn</b>
-      </a>
+    <td width="33%">
+      <h3>Secure AI Systems</h3>
+      <p>My graduate work is pushing my engineering profile toward security-first AI: safer integrations, stronger trust boundaries, model-aware threat thinking, and resilient AI-assisted software.</p>
     </td>
-    <td align="center">
-      <a href="mailto:mehmetsakirkurtt@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80"/>
-        <br><b>Email</b>
-      </a>
+    <td width="33%">
+      <h3>Computer Vision In Production</h3>
+      <p>I have built real-time YOLO-based systems for UAV and industrial scenarios, including deployment and optimization work on NVIDIA Jetson Xavier and edge inference pipelines.</p>
     </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/mehmetakirkurtt">
-        <img src="https://img.icons8.com/windows/96/000000/kaggle.png" width="80"/>
-        <br><b>Kaggle</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/mehmetsakirkurt/">
-        <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="80"/>
-        <br><b>Instagram</b>
-      </a>
+    <td width="33%">
+      <h3>AI-Native Product Delivery</h3>
+      <p>I ship mobile and web applications with React Native, React, FastAPI, Supabase, automation pipelines, and LLM integrations that solve actual user problems.</p>
     </td>
   </tr>
 </table>
 
-<br>
+## Highlights
 
-### 📧 Contact Information
+- Pursuing an M.Sc. in Cybersecurity with focus areas in AI Security, Blockchain Security, ML Security, and Cyber Threat Intelligence.
+- Former AI Software Engineer at ERU HAVTEK, working on real-time UAV vision systems for Teknofest 2024.
+- Contributor to a TÜBİTAK 2209-B research project on U-Net-based brain tumor diagnosis and medical image segmentation.
+- Freelance full-stack builder developing AI-powered products with React Native, FastAPI, Supabase, OpenAI, `n8n`, and MCP-based workflows.
+- Strong data background spanning analytics, ETL, big data systems, and business intelligence.
 
-📍 **Location:** Kayseri, Turkey 🇹🇷  
-📧 **Email:** mehmetsakirkurtt@gmail.com  
-🌐 **GitHub:** github.com/MehmetSakirKurt
+## Selected Work
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI-Powered Official Gazette App</h3>
+      <p>Mobile experience for searching, classifying, and summarizing legal text with LLM workflows and automation-driven data pipelines.</p>
+      <p><code>React Native</code> <code>TypeScript</code> <code>Supabase</code> <code>OpenAI</code> <code>n8n</code> <code>MCP</code></p>
+    </td>
+    <td width="50%">
+      <h3>YOLO Factory Counting System</h3>
+      <p>Real-time industrial counting platform that combines computer vision, live dashboards, stream processing, and reporting infrastructure.</p>
+      <p><code>YOLO</code> <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Supabase</code> <code>Computer Vision</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>TÜBİTAK Brain Tumor Diagnosis</h3>
+      <p>Research-oriented decision support system based on U-Net segmentation for MRI analysis and tumor detection workflows.</p>
+      <p><code>U-Net</code> <code>PyTorch</code> <code>Medical Imaging</code> <code>Transfer Learning</code></p>
+    </td>
+    <td width="50%">
+      <h3>Teknofest Combat Drone Vision</h3>
+      <p>Real-time UAV vision pipeline with object detection, target tracking, GUI tooling, and edge-focused performance optimization.</p>
+      <p><code>YOLO</code> <code>Jetson Xavier</code> <code>OpenCV</code> <code>PyQt5</code> <code>GPS Integration</code></p>
+    </td>
+  </tr>
+</table>
 
----
+## Cybersecurity Lens
+
+While most of my shipped work is rooted in product and AI engineering, my current academic direction is making security a core part of how I design systems.
+
+- I am especially interested in secure AI application design and the attack surface around LLM and ML integrations.
+- I want to work on adversarial robustness, trustworthy automation, and safer deployment patterns for intelligent systems.
+- I am also exploring blockchain security and decentralized trust models as part of my graduate specialization.
+
+## Core Stack
+
+### AI / ML / Vision
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/YOLO-0f172a?style=for-the-badge&labelColor=111827&color=06b6d4" alt="YOLO" />
+  <img src="https://img.shields.io/badge/U--Net-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" alt="U-Net" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+</p>
+
+### Product Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Data / Infra / Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Jetson_Xavier-0f172a?style=for-the-badge&labelColor=111827&color=22c55e" alt="Jetson Xavier" />
+</p>
+
+### Security / Research
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Security-0f172a?style=for-the-badge&labelColor=111827&color=0ea5e9" alt="AI Security" />
+  <img src="https://img.shields.io/badge/Blockchain_Security-0f172a?style=for-the-badge&labelColor=111827&color=14b8a6" alt="Blockchain Security" />
+  <img src="https://img.shields.io/badge/ML_Security-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" alt="ML Security" />
+  <img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-0f172a?style=for-the-badge&labelColor=111827&color=8b5cf6" alt="Cyber Threat Intelligence" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-0f172a?style=for-the-badge&labelColor=111827&color=f97316" alt="Model Context Protocol" />
+</p>
+
+## GitHub Pulse
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehmetsakirkurt&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsakirkurt&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
-### 💭 Professional Quote
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetsakirkurt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff" alt="Activity Graph" />
+</div>
 
-*"Building the future with AI, one line of code at a time"* 🚀
+## Connect
 
----
+<p align="center">
+  Open to collaborations in AI engineering, computer vision, secure AI, and AI-native product development.
+</p>
 
-### ⚡ Fun Facts
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmet-%C5%9Fakir-kurt-36339b1b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+  <a href="mailto:mehmetsakirkurtt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Reach Out" />
+  </a>
+  <a href="https://github.com/MehmetSakirKurt">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
+  </a>
+</p>
 
-🎯 Teknofest 2024 Participant | 🏆 TÜBİTAK Researcher | 🤖 AI Enthusiast  
-🚁 UAV Technology | 🔐 Cybersecurity Student | 📊 Data Science Expert
-
----
-
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-**⭐ From [MehmetSakirKurt](https://github.com/mehmetsakirkurt)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,24" width="100%" alt="Footer banner" />
 </div>

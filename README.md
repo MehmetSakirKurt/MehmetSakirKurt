@@ -27,6 +27,10 @@
 
 </div>
 
+<p align="center">
+  AI, bilgisayarla goru ve siber guvenligin kesisiminde, arastirma odakli fikirleri gercek urunlere donusturmeyi seviyorum.
+</p>
+
 ## `whoami`
 
 ```bash
@@ -40,15 +44,16 @@ focus: AI security, blockchain security, ML security, cyber threat intelligence
 building: LLM-powered applications, real-time vision systems, secure AI workflows
 ```
 
-Building products at the intersection of `AI`, `computer vision`, `full-stack engineering`, and `cybersecurity`. I enjoy taking research-heavy ideas and turning them into systems people can actually use, from model experimentation and edge inference to APIs, mobile interfaces, automation, and production delivery.
+Building products at the intersection of `AI`, `computer vision`, `full-stack engineering`, and `cybersecurity`.
+Arastirma agirlikli fikirleri; API, mobil uygulama, edge inference ve otomasyonla gercek dunyada kullanilabilir sistemlere donusturmaktan keyif aliyorum.
 
-## What I Focus On
+## Focus Areas / Odak Alanlarim
 
 <table>
   <tr>
     <td width="33%">
       <h3>Secure AI Systems</h3>
-      <p>My graduate work is pushing my engineering profile toward security-first AI: safer integrations, stronger trust boundaries, model-aware threat thinking, and resilient AI-assisted software.</p>
+      <p>Graduate research directionim, beni security-first AI tarafina itiyor: daha guvenli entegrasyonlar, daha net trust boundaries ve daha dayanikli AI destekli yazilimlar.</p>
     </td>
     <td width="33%">
       <h3>Computer Vision In Production</h3>
@@ -56,12 +61,12 @@ Building products at the intersection of `AI`, `computer vision`, `full-stack en
     </td>
     <td width="33%">
       <h3>AI-Native Product Delivery</h3>
-      <p>I ship mobile and web applications with React Native, React, FastAPI, Supabase, automation pipelines, and LLM integrations that solve actual user problems.</p>
+      <p>React Native, React, FastAPI, Supabase ve LLM entegrasyonlari ile yalnizca demo degil, gercek kullanicilara dokunan urunler gelistiriyorum.</p>
     </td>
   </tr>
 </table>
 
-## Highlights
+## Highlights / One Cikanlar
 
 - Pursuing an M.Sc. in Cybersecurity with focus areas in AI Security, Blockchain Security, ML Security, and Cyber Threat Intelligence.
 - Former AI Software Engineer at ERU HAVTEK, working on real-time UAV vision systems for Teknofest 2024.
@@ -69,7 +74,7 @@ Building products at the intersection of `AI`, `computer vision`, `full-stack en
 - Freelance full-stack builder developing AI-powered products with React Native, FastAPI, Supabase, OpenAI, `n8n`, and MCP-based workflows.
 - Strong data background spanning analytics, ETL, big data systems, and business intelligence.
 
-## Selected Work
+## Selected Work / Secili Calismalar
 
 <table>
   <tr>
@@ -98,9 +103,10 @@ Building products at the intersection of `AI`, `computer vision`, `full-stack en
   </tr>
 </table>
 
-## Cybersecurity Lens
+## Cybersecurity Lens / Siber Guvenlik Perspektifi
 
 While most of my shipped work is rooted in product and AI engineering, my current academic direction is making security a core part of how I design systems.
+Yuksek lisans surecimle birlikte, sistem tasariminda guvenligi sonradan eklenen bir katman degil, baslangictan itibaren dusunulen bir temel olarak ele aliyorum.
 
 - I am especially interested in secure AI application design and the attack surface around LLM and ML integrations.
 - I want to work on adversarial robustness, trustworthy automation, and safer deployment patterns for intelligent systems.
@@ -169,10 +175,11 @@ While most of my shipped work is rooted in product and AI engineering, my curren
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetsakirkurt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff" alt="Activity Graph" />
 </div>
 
-## Connect
+## Connect / Iletisim
 
 <p align="center">
   Open to collaborations in AI engineering, computer vision, secure AI, and AI-native product development.
+  AI, computer vision ve secure AI odakli projelerde is birligine acigim.
 </p>
 
 <p align="center">

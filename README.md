@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,24&text=Mehmet%20Sakir%20Kurt&fontColor=E6F1FF&fontSize=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20M.Sc.%20Candidate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Header banner" />
+<img src="./assets/cyber-header.svg" width="100%" alt="Animated cyber header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Computer+Vision;M.Sc.+Cybersecurity+candidate+focused+on+secure+AI+systems;Building+intelligent+products+where+AI+meets+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2400&pause=850&color=67E8F9&center=true&vCenter=true&width=920&lines=Secure+AI+architectures+and+LLM-powered+products;Real-time+computer+vision+for+edge+and+industrial+systems;Cybersecurity+research+with+an+engineering-first+mindset" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehmetsakirkurt&label=profile+views&color=0891b2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Kayseri-Turkiye-0f172a?style=flat-square&logo=googlemaps&logoColor=22d3ee" alt="Location" />
+  <img src="https://img.shields.io/badge/Kayseri-T%C3%BCrkiye-0f172a?style=flat-square&logo=googlemaps&logoColor=22d3ee" alt="Location" />
   <img src="https://img.shields.io/badge/M.Sc.-Cybersecurity-0f172a?style=flat-square&logoColor=22d3ee" alt="M.Sc. Cybersecurity" />
   <img src="https://img.shields.io/badge/Research-AI%20Security%20%2B%20Blockchain-0f172a?style=flat-square&logoColor=22d3ee" alt="Research Areas" />
 </p>
@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  AI, bilgisayarla goru ve siber guvenligin kesisiminde, arastirma odakli fikirleri gercek urunlere donusturmeyi seviyorum.
+  AI, bilgisayarla görü ve siber güvenliğin kesişiminde, araştırma odaklı fikirleri gerçek ürünlere dönüştürmeyi seviyorum.
 </p>
 
 ## `whoami`
@@ -45,15 +45,15 @@ building: LLM-powered applications, real-time vision systems, secure AI workflow
 ```
 
 Building products at the intersection of `AI`, `computer vision`, `full-stack engineering`, and `cybersecurity`.
-Arastirma agirlikli fikirleri; API, mobil uygulama, edge inference ve otomasyonla gercek dunyada kullanilabilir sistemlere donusturmaktan keyif aliyorum.
+Araştırma ağırlıklı fikirleri; API, mobil uygulama, edge inference ve otomasyonla gerçek dünyada kullanılabilir sistemlere dönüştürmekten keyif alıyorum.
 
-## Focus Areas / Odak Alanlarim
+## Focus Areas / Odak Alanlarım
 
 <table>
   <tr>
     <td width="33%">
       <h3>Secure AI Systems</h3>
-      <p>Graduate research directionim, beni security-first AI tarafina itiyor: daha guvenli entegrasyonlar, daha net trust boundaries ve daha dayanikli AI destekli yazilimlar.</p>
+      <p>Yüksek lisans araştırma yönüm, beni security-first AI tarafına taşıyor: daha güvenli entegrasyonlar, daha net güven sınırları ve daha dayanıklı AI destekli yazılımlar.</p>
     </td>
     <td width="33%">
       <h3>Computer Vision In Production</h3>
@@ -61,12 +61,12 @@ Arastirma agirlikli fikirleri; API, mobil uygulama, edge inference ve otomasyonl
     </td>
     <td width="33%">
       <h3>AI-Native Product Delivery</h3>
-      <p>React Native, React, FastAPI, Supabase ve LLM entegrasyonlari ile yalnizca demo degil, gercek kullanicilara dokunan urunler gelistiriyorum.</p>
+      <p>React Native, React, FastAPI, Supabase ve LLM entegrasyonları ile yalnızca demo değil, gerçek kullanıcılara dokunan ürünler geliştiriyorum.</p>
     </td>
   </tr>
 </table>
 
-## Highlights / One Cikanlar
+## Highlights / Öne Çıkanlar
 
 - Pursuing an M.Sc. in Cybersecurity with focus areas in AI Security, Blockchain Security, ML Security, and Cyber Threat Intelligence.
 - Former AI Software Engineer at ERU HAVTEK, working on real-time UAV vision systems for Teknofest 2024.
@@ -74,7 +74,7 @@ Arastirma agirlikli fikirleri; API, mobil uygulama, edge inference ve otomasyonl
 - Freelance full-stack builder developing AI-powered products with React Native, FastAPI, Supabase, OpenAI, `n8n`, and MCP-based workflows.
 - Strong data background spanning analytics, ETL, big data systems, and business intelligence.
 
-## Selected Work / Secili Calismalar
+## Selected Work / Seçili Çalışmalar
 
 <table>
   <tr>
@@ -103,10 +103,10 @@ Arastirma agirlikli fikirleri; API, mobil uygulama, edge inference ve otomasyonl
   </tr>
 </table>
 
-## Cybersecurity Lens / Siber Guvenlik Perspektifi
+## Cybersecurity Lens / Siber Güvenlik Perspektifi
 
 While most of my shipped work is rooted in product and AI engineering, my current academic direction is making security a core part of how I design systems.
-Yuksek lisans surecimle birlikte, sistem tasariminda guvenligi sonradan eklenen bir katman degil, baslangictan itibaren dusunulen bir temel olarak ele aliyorum.
+Yüksek lisans sürecimle birlikte, sistem tasarımında güvenliği sonradan eklenen bir katman değil, başlangıçtan itibaren düşünülen bir temel olarak ele alıyorum.
 
 - I am especially interested in secure AI application design and the attack surface around LLM and ML integrations.
 - I want to work on adversarial robustness, trustworthy automation, and safer deployment patterns for intelligent systems.
@@ -175,11 +175,11 @@ Yuksek lisans surecimle birlikte, sistem tasariminda guvenligi sonradan eklenen 
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetsakirkurt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff" alt="Activity Graph" />
 </div>
 
-## Connect / Iletisim
+## Connect / İletişim
 
 <p align="center">
   Open to collaborations in AI engineering, computer vision, secure AI, and AI-native product development.
-  AI, computer vision ve secure AI odakli projelerde is birligine acigim.
+  AI, computer vision ve secure AI odaklı projelerde iş birliğine açığım.
 </p>
 
 <p align="center">
